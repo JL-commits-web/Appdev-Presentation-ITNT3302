@@ -1,7 +1,7 @@
-# appdevelop
+# ITNT3302--AppDev
+Youtube Link: [https://youtu.be/PbmD6l2gUQI](https://youtu.be/OF9nIw-ZXhI)<br>
+Randolf Andrew Caraig<br>
+Khen Justine Castillo<br>
+Yaniq Yuan Shao<br>
+Jhon Loyd Bunyi<br>
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
