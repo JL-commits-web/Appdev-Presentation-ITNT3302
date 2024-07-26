@@ -1,6 +1,7 @@
-# ITNT3302--Final Presentation
-Youtube Link: https://youtu.be/PbmD6l2gUQI<br>
-Randolf Andrew Caraig<br>
-Khen Justine Castillo<br>
-Yaniq Yuan Shao<br>
-Jhon Loyd Bunyi<br>
+# appdevelop
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
