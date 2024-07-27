@@ -5,8 +5,8 @@ provide timely updates to school information as well as modules.<br>
 
 #  Features
 Home Page------------<br>
-Access timely information such as announcements<br>
-View School Calendar and News<br>
+- Provides access to timely information such as announcements<br>
+- View School Calendar and News<br>
 View of Mission, Vision and Core values<br>
 Learning Resources Page---<br>
 View of available subjects<br>
