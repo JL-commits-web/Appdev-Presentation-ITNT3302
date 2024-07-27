@@ -1,4 +1,4 @@
-# ASTConnect A Mobile Application for the Library and Learning Resources of Alangilan Senior High
+# ASTConnect: A Mobile Application for the Library and Learning Resources of Alangilan Senior High
 ASTConnect is an mobile application that aims to serve Alangilan
 Senior High School Students by providing an application that would
 provide timely updates to school information as well as modules.
