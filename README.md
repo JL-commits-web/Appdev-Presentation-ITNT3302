@@ -4,7 +4,7 @@ Senior High School Students by providing an application that would<br>
 provide timely updates to school information as well as modules.<br>
 
 # Features
-#-Home Page
+#- Home Page
 - Provides access to timely information such as announcements<br>
 - View School Calendar and News<br>
 - View of Mission, Vision and Core values<br>
